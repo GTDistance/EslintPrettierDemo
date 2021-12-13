@@ -1,0 +1,10 @@
+{
+  "name": "EslintDemo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "^8.4.1",
+    "prettier": "^2.5.1"
+  }
+}
